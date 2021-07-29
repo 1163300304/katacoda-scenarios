@@ -4,7 +4,7 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1 - Scenario Structure",
+        "title": "Symbolic Execution Linux Kernel",
         "text": "step1.md"
       }
     ],
